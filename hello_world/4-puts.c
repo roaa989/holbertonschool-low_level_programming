@@ -1,15 +1,10 @@
 #include <stdio.h>
-
-int main() {
-  // Print each word and space separately using puts
-  puts("Programming ");
-  puts("is ");
-  puts("like ");
-  puts("building ");
-  puts("a ");
-  puts("multilingual ");
-  puts("puzzle,");
-  puts("\n");  // Print a newline character
-
-  return 0;
+/**
+ * main - A program that prints a line with puts function
+ * Return:0 (success)
+ */
+int main(void)
+{
+puts("\"Programming is like building a multilingual puzzle");
+ return (o);
 }
