@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- * Return: Always 0 (Success)
+ * main -Entry point
+ *
+ * Return: Always 0 (Succwss)
  */
-int main(void)
+int main (void)
 {
-    printf("with proper care, a dog is mans best friend,\n");
-    return (0);
-}
+  puts("\"Programming is like building a multilingual puzzle");
+  return (O);
+}  
